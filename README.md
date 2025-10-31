@@ -1,42 +1,49 @@
-## 👋 Hi, I'm Mohammed Dechraoui
+## Mohammed Dechraoui — Data & Machine Intelligence
 
-🎓 Master's student in Information Systems & Intelligent Systems (INSEA - Rabat)  
-💡 Passionate about Data Engineering, Machine Learning, and Intelligent Applications  
-🌍 Based in Morocco | Open to internships and collaboration opportunities
-
----
-
-### 🚀 What I Do
-- **Data Engineering**: Pipeline design, ETL/ELT, Data Warehousing (Airflow, DBT, PostgreSQL, Aiven)
-- **Machine Learning & NLP**: Model training, evaluation, sentiment analysis, topic modeling
-- **Full-Stack Development**: React / React Native, Node.js, Firebase, REST APIs
-- **DevOps & Cloud**: Docker, GitHub Actions, CI/CD, deployment on Netlify / Vercel
+**Master's candidate in Information Systems & Intelligent Systems (INSEA, Rabat)**  
+Focused on designing scalable data systems and building intelligent applications for real-world impact.
 
 ---
 
-### 🔥 Key Projects
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Bank Agencies Review Analytics** | Modern Data Pipeline for collecting & analyzing customer reviews | Python, Scrapy, Airflow, PostgreSQL, DBT, Looker Studio |
-| **Mobile App for Teacher Exchange** | Cross-platform app for higher education teacher permutation | React Native, Firebase |
-| **Store Sales Prediction** | ML Model predicting sales using R² evaluation metric | Python, Pandas, Scikit-Learn |
+### Core Focus Areas
+- **Data Engineering & Warehousing**: ETL/ELT pipelines, workflow orchestration, data modeling
+- **Machine Learning & NLP**: Model development, evaluation, deployment, language understanding
+- **Software & Systems Design**: Modular architectures, API development, application integration
 
 ---
 
-### 🛠️ Skills & Tools
-**Languages:** Python, SQL, Java, C, PHP, JavaScript  
-**ML:** Scikit-Learn, TensorFlow, NLP, PCA, Regression Models  
+### Selected Work
+- **Customer Review Analytics for Bank Agencies**  
+  End-to-end pipeline for collecting, processing, and analyzing customer reviews.  
+  _Python, Scrapy, Airflow, PostgreSQL (Aiven), DBT, Looker Studio_
+
+- **Mobile Application for Teacher Exchange**  
+  Cross-platform application facilitating structured teacher reassignment workflows.  
+  _React Native, Firebase Authentication & Realtime DB_
+
+- **Store Sales Forecasting**  
+  Feature engineering & model evaluation using regression and time-based patterns.  
+  _Python, Pandas, Scikit-Learn_
+
+---
+
+### Technical Environment
+**Languages:** Python, SQL, Java, JavaScript, C, PHP  
+**Machine Learning:** Scikit-Learn, TensorFlow, NLP workflows  
 **Data Stack:** Apache Airflow, DBT, PostgreSQL, Pandas  
-**Web & Apps:** React, React Native, Node.js, Firebase  
-**Versioning & Deployment:** Git, GitHub, Docker, Netlify, Vercel
+**Software & Web:** React, React Native, Node.js, Firebase  
+**Ops & Tools:** Git, GitHub Actions, Docker, Linux, Netlify, Vercel
 
 ---
 
-### 📫 Let's Connect
-- **Email:** dechraoui.mohammed78@gmail.com
-- **LinkedIn:** *Add your LinkedIn link here*
-- **GitHub:** *You're already here 🙂*
+### Current Interests
+- Operationalizing AI at scale
+- Retrieval-Augmented Generation (RAG) systems
+- Vector databases for semantic search
+- Data pipeline reliability and observability
 
 ---
 
-💡 *I love solving real-world problems with data and building systems that learn and scale. Always open to learning, contributing, and collaborating.*
+### Contact & Profiles
+- **Email:** dechraoui.mohammed78@gmail.com  
+- **LinkedIn:** *(add link here)*  
