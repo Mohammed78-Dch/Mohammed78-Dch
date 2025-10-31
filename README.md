@@ -1,49 +1,62 @@
-## Mohammed Dechraoui — Data & Machine Intelligence
+# Mohammed Dechraoui
+**Data & Machine Intelligence Engineer**
 
-**Master's candidate in Information Systems & Intelligent Systems (INSEA, Rabat)**  
-Focused on designing scalable data systems and building intelligent applications for real-world impact.
-
----
-
-### Core Focus Areas
-- **Data Engineering & Warehousing**: ETL/ELT pipelines, workflow orchestration, data modeling
-- **Machine Learning & NLP**: Model development, evaluation, deployment, language understanding
-- **Software & Systems Design**: Modular architectures, API development, application integration
+Master's Candidate — Information Systems & Intelligent Systems  
+National Institute of Statistics and Applied Economics (INSEA), Rabat
 
 ---
 
-### Selected Work
-- **Customer Review Analytics for Bank Agencies**  
-  End-to-end pipeline for collecting, processing, and analyzing customer reviews.  
-  _Python, Scrapy, Airflow, PostgreSQL (Aiven), DBT, Looker Studio_
+## Expertise
 
-- **Mobile Application for Teacher Exchange**  
-  Cross-platform application facilitating structured teacher reassignment workflows.  
-  _React Native, Firebase Authentication & Realtime DB_
+### Data Engineering
+Pipeline orchestration • ETL/ELT workflows • Data modeling • Warehouse architecture
 
-- **Store Sales Forecasting**  
-  Feature engineering & model evaluation using regression and time-based patterns.  
-  _Python, Pandas, Scikit-Learn_
+### Machine Learning
+Model development & evaluation • Natural language processing • Production deployment
+
+### Software Engineering
+API design • Distributed systems • Application architecture • Cloud integration
 
 ---
 
-### Technical Environment
-**Languages:** Python, SQL, Java, JavaScript, C, PHP  
-**Machine Learning:** Scikit-Learn, TensorFlow, NLP workflows  
-**Data Stack:** Apache Airflow, DBT, PostgreSQL, Pandas  
-**Software & Web:** React, React Native, Node.js, Firebase  
-**Ops & Tools:** Git, GitHub Actions, Docker, Linux, Netlify, Vercel
+## Portfolio
+
+### Production Systems
+
+**Bank Agency Analytics Pipeline**  
+Automated review collection and sentiment analysis system serving multiple locations.  
+`Python` `Scrapy` `Apache Airflow` `PostgreSQL` `DBT` `Looker Studio`
+
+**Education Platform — Teacher Exchange**  
+Mobile-first application enabling efficient teacher transfer workflows.  
+`React Native` `Firebase` `Real-time Sync`
+
+**Time-Series Forecasting Engine**  
+Sales prediction system with advanced feature engineering.  
+`Pandas` `Scikit-Learn` `Statistical Modeling`
 
 ---
 
-### Current Interests
-- Operationalizing AI at scale
-- Retrieval-Augmented Generation (RAG) systems
-- Vector databases for semantic search
-- Data pipeline reliability and observability
+## Technical Proficiencies
+
+| Category | Technologies |
+|----------|-------------|
+| Languages | Python, SQL, JavaScript, Java, C, PHP |
+| Data Engineering | Airflow, DBT, PostgreSQL, Pandas |
+| Machine Learning | Scikit-Learn, TensorFlow, NLP |
+| Development | React, React Native, Node.js, Firebase |
+| Infrastructure | Docker, Git, CI/CD, Linux |
 
 ---
 
-### Contact & Profiles
-- **Email:** dechraoui.mohammed78@gmail.com  
-- **LinkedIn:** *(add link here)*  
+## Research Focus
+- Large Language Model orchestration
+- Semantic search & vector databases
+- RAG system architecture
+- Data pipeline observability
+
+---
+
+## Connect
+📧 dechraoui.mohammed78@gmail.com  
+💼 [LinkedIn Profile](#)
