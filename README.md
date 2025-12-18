@@ -10,13 +10,14 @@ Transforming data into intelligent solutions through advanced analytics, machine
 
 ---
 
+
 ## 👨‍💻 About Me
 
 **Master's Student** in Information Systems & Intelligent Systems @ INSEA (National Institute of Statistics and Applied Economics)
 
 Data Scientist specializing in the full ML lifecycle—from exploratory data analysis and statistical modeling to production deployment.  Passionate about extracting actionable insights from complex datasets and building intelligent systems that drive business decisions.
 
-**🎯 Currently seeking**: Data Science / AI Engineering internship in smart mining, industrial AI, or data-intensive domains.
+**🎯 Currently seeking**: Data Science / AI Engineering internship in smart mining, industrial AI, or data-intensive domains. 
 
 ---
 
@@ -26,72 +27,31 @@ Data Scientist specializing in the full ML lifecycle—from exploratory data ana
 
 #### 📊 Statistical Analysis & Modeling
 - Exploratory Data Analysis (EDA) & Statistical Inference
-- Hypothesis Testing & A/B Testing
-- Predictive Modeling & Forecasting
+- Data Cleaning & Preprocessing
 - Feature Engineering & Selection
-- Dimensionality Reduction (PCA, t-SNE)
+- Principal Component Analysis (PCA)
+- Predictive Modeling & Forecasting
 
-#### 🤖 Machine Learning
-- **Supervised Learning**:  Regression, Classification, Ensemble Methods
-- **Unsupervised Learning**: Clustering, Anomaly Detection
-- **Deep Learning**: CNNs, RNNs, Transformers
-- **NLP**: Text Processing, Sentiment Analysis, Named Entity Recognition
-- **Computer Vision**:  Image Classification, Object Detection, Generative Models
+#### 🤖 Machine Learning & Deep Learning
+- **Supervised Learning**: Classification, Regression
+- **Deep Learning**: CNNs, RNNs, Neural Networks
+- **Natural Language Processing (NLP)**: Text Analysis, Language Models
+- **LLM Integration**: RAG Systems, Prompt Engineering
+- **ML Pipelines**: End-to-end workflow automation
 
-#### 📈 Data Visualization & Communication
+#### 📈 Data Visualization & BI
 - Interactive Dashboards (Power BI, Tableau, Looker Studio)
-- Statistical Graphics (Matplotlib, Seaborn, Plotly)
+- Statistical Graphics (Matplotlib, Seaborn)
 - Business Intelligence Reporting
-- Storytelling with Data
+- Data Storytelling
 
 #### 🔧 Data Engineering
-- ETL/ELT Pipeline Development
-- Data Warehouse Design & Optimization
-- Big Data Processing (Hadoop, Spark)
+- ETL Pipeline Development
+- Big Data & Distributed Systems (Hadoop, PySpark)
 - Workflow Orchestration (Apache Airflow)
-- Data Quality & Validation
-
----
-
-## 🛠️ Technical Stack
-
-### Data Science & Machine Learning
-```python
-Languages:          Python, R, SQL, Julia
-ML Frameworks:      Scikit-Learn, XGBoost, LightGBM, CatBoost
-Deep Learning:      TensorFlow, Keras, PyTorch, Hugging Face
-Data Manipulation:   Pandas, NumPy, Polars, Dask
-Visualization:      Matplotlib, Seaborn, Plotly, Bokeh
-Statistics:         SciPy, Statsmodels
-NLP:                NLTK, spaCy, Transformers, LangChain
-Computer Vision:    OpenCV, Pillow, Albumentations
-```
-
-### MLOps & Production
-```yaml
-Experiment Tracking:   MLflow, Weights & Biases
-Model Serving:        FastAPI, Flask, TensorFlow Serving
-Version Control:      DVC, Git, GitHub
-Containerization:     Docker, Kubernetes
-Cloud Platforms:      AWS, Google Cloud (familiar)
-CI/CD:                GitHub Actions, Jenkins
-```
-
-### Data Engineering
-```sql
-Databases:          PostgreSQL, MySQL, Oracle, MongoDB
-Big Data:           Hadoop, Apache Spark (familiar)
-Orchestration:      Apache Airflow, Prefect
-ETL Tools:          DBT, Apache NiFi
-Data Collection:    Scrapy, Selenium, Beautiful Soup, APIs
-```
-
-### Business Intelligence
-```
-BI Tools:           Power BI, Tableau, Looker Studio
-Reporting:          Excel (Advanced), Google Sheets
-Automation:         n8n, Python Scripts
-```
+- Data Modeling (DBT)
+- Web Scraping (Beautiful Soup, Selenium)
+- API Integration
 
 ---
 
@@ -229,14 +189,14 @@ Chouaib Doukkali University, El Jadida
 
 ## 🏆 Professional Certifications
 
-| Certification | Issuer | Date | Badge |
+| Certification | Issuer | Date |
 |--------------|--------|------|-------|
-| **Data Scientist Professional** | DataCamp | Nov 2025 | [🔗 Verify](link) |
-| **AI Engineer for Data Scientists** | DataCamp | Nov 2025 | [🔗 Verify](link) |
-| **Data Analysis with Python** | freeCodeCamp | May 2025 | [🔗 Verify](link) |
-| **Introduction to Data Science** | LinkedIn Learning | May 2025 | [🔗 Verify](link) |
-| **Data Visualization** | Kaggle | May 2025 | [🔗 Verify](link) |
-| **AI Foundations** | Oracle Cloud | Jul 2025 | [🔗 Verify](link) |
+| **Data Scientist Professional** | DataCamp | Nov 2025 |
+| **AI Engineer for Data Scientists** | DataCamp | Nov 2025 |
+| **Data Analysis with Python** | freeCodeCamp | May 2025 | 
+| **Introduction to Data Science** | LinkedIn Learning | May 2025 | 
+| **Data Visualization** | Kaggle | May 2025 | 
+| **AI Foundations** | Oracle Cloud | Jul 2025 | 
 
 **📚 Continuous Learning**: Currently completing advanced courses in MLOps, Causal Inference, and Deep Learning.
 
@@ -303,15 +263,10 @@ Chouaib Doukkali University, El Jadida
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dechraoui. mohammed78@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](your-kaggle-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-dechraoui)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed78-Dch)
 
-**📧 Email**: dechraoui.mohammed78@gmail.com  
-**🎓 Academic**: mdechraoui@insea.ac.ma  
 **📍 Location**: Rabat, Morocco  
-**📱 Phone**: +212 612 635 378
 
 </div>
 
