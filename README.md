@@ -190,7 +190,7 @@ Chouaib Doukkali University, El Jadida
 ## 🏆 Professional Certifications
 
 | Certification | Issuer | Date |
-|--------------|--------|------|-------|
+|--------------|--------|------|
 | **Data Scientist Professional** | DataCamp | Nov 2025 |
 | **AI Engineer for Data Scientists** | DataCamp | Nov 2025 |
 | **Data Analysis with Python** | freeCodeCamp | May 2025 | 
@@ -221,7 +221,7 @@ Chouaib Doukkali University, El Jadida
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=Mohammed78-Dch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed78-Dch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed78-Dch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
