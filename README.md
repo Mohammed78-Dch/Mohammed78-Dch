@@ -4,8 +4,8 @@
 
 Transforming data into intelligent solutions through advanced analytics, machine learning, and scalable data systems.
 
-[![Data Scientist](https://img.shields.io/badge/Data_Scientist-Professional-blue? style=for-the-badge)](https://www.datacamp.com/certificate/DS0020279039627)
-[![AI Engineer](https://img.shields.io/badge/AI_Engineer-Associate-green?style=for-the-badge)](https://www.datacamp.com/certificate/AEDS0010590191328)
+[![Data Scientist]](https://www.datacamp.com/certificate/DS0020279039627)
+[![AI Engineer]](https://www.datacamp.com/certificate/AEDS0010590191328)
 [![Python](https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python)](https://github.com/Mohammed78-Dch)
 
 ---
