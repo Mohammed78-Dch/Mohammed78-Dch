@@ -118,12 +118,19 @@ function typeWriter(element, text, speed = 100) {
     type();
 }
 
-// Parallax effect for hero section
+// Parallax effect for hero section (optimized)
+let ticking = false;
 window.addEventListener('scroll', () => {
-    const hero = document.querySelector('.hero');
-    const scrolled = window.pageYOffset;
-    if (hero) {
-        hero.style.transform = `translateY(${scrolled * 0.5}px)`;
+    if (!ticking) {
+        window.requestAnimationFrame(() => {
+            const hero = document.querySelector('.hero');
+            const scrolled = window.pageYOffset;
+            if (hero && scrolled < hero.offsetHeight) {
+                hero.style.transform = `translateY(${scrolled * 0.3}px)`;
+            }
+            ticking = false;
+        });
+        ticking = true;
     }
 });
 
