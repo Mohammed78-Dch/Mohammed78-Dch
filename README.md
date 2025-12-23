@@ -366,7 +366,7 @@ Production ML systems, monitoring, and lifecycle management
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed78-Dch&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed78-Dch&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=Mohammed78-Dch" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed78-Dch&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed78-Dch&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
@@ -435,7 +435,6 @@ Production ML systems, monitoring, and lifecycle management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-dechraoui)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed78-Dch)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 <br>
