@@ -1,76 +1,127 @@
 <div align="center">
 
-# Hey, I'm Mohammed 👋
+# Mohammed Dechraoui
 
-### I teach machines to read, predict, and (sometimes) behave.
+### AI Engineer · Agentic AI · GenAI · RAG
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Data+Scientist+in+the+making;Master's+student+%40+INSEA+%F0%9F%87%B2%F0%9F%87%A6;Breaking+models%2C+then+fixing+them;Looking+for+an+internship+%E2%9B%8F%EF%B8%8F)
+*I build LLM agents that talk to real data and run in production, not just in notebooks.*
+
+![Status](https://img.shields.io/badge/Status-Available_immediately-brightgreen?style=for-the-badge)
+![Remote](https://img.shields.io/badge/Open_to-Remote-blue?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based_in-El_Jadida,_Morocco-lightgrey?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-dechraoui)
-[![DataCamp DS](https://img.shields.io/badge/DataCamp-Data_Scientist-03EF62?style=for-the-badge)](https://www.datacamp.com/certificate/DS0020279039627)
-[![DataCamp AI](https://img.shields.io/badge/DataCamp-AI_Engineer-5C2D91?style=for-the-badge)](https://www.datacamp.com/certificate/AEDS0010590191328)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dechraoui.mohammed78@gmail.com)
+[![DataCamp](https://img.shields.io/badge/DataCamp-AI_Engineer_Associate-03EF62?style=for-the-badge)](https://www.datacamp.com/certificate/AEDS0010590191328)
 
 </div>
 
 ---
 
-## 🧑‍🚀 A little about me
+## 👋 About
 
-```python
-class Mohammed:
-    def __init__(self):
-        self.location = "Rabat, Morocco 🇲🇦"
-        self.studying = "Information Systems & Intelligent Systems @ INSEA"
-        self.languages = ["Arabic (native)", "French (C1)", "English (B2+)"]
-        self.currently_learning = ["MLOps", "Causal Inference", "Deep Learning"]
-        self.obsessed_with = ["RAG", "LLM agents", "Time series", "Industrial AI"]
-        self.looking_for = "Internship in smart mining / industrial AI / data-heavy teams"
+AI Engineer with a Master's in **Information Systems & Intelligent Systems (INSEA, 2026)** and **6 months of industrial experience at OCP Group**.
 
-    def fun_fact(self):
-        return "I turn messy Arabic text into clean insights. Yes, it's as painful as it sounds."
-```
+I design, secure and deploy **agentic AI systems**: LangGraph agents, hybrid RAG, Text-to-SQL, on-premise LLMs. I also build **predictive ML services** and automate business workflows as a freelancer with n8n.
+
+I'm comfortable across the whole chain: **model → API → interface → deployment**.
 
 ---
 
-## 🛠️ My toolbox
+## 💼 Experience
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+### 🏭 AI Engineer (End-of-studies internship) · OCP Group
+*Jorf Lasfar, El Jadida · Mar – Aug 2026 · industrial environment*
 
-**Also dangerous with:** NLP · Transformers · LangChain · FAISS · Hadoop · Selenium · Looker Studio
+**🤖 Agentic Text-to-SQL assistant (RAG + LangGraph multi-agents)**
+Lets operations teams query production data in natural language, in **French, English and Arabic**.
+- Multi-agent architecture with LangGraph: step planning, SQL generation and validation, state management
+- **Hybrid retrieval** (vector + trigram) to ground queries in real database values and reduce hallucinations
+- OCR ingestion of PDFs and Excel sheets into the database
+- Guardrails based on **OWASP Top 10 for LLM**: role-based access control, query and output validation
+- **On-premise deployment** for data confidentiality: Ollama, PostgreSQL + pgvector, FastAPI, React, Docker
+
+**🚢 Laycan Feasibility Engine (decision-support service)**
+Predicts vessel delay risk and suggests alternative time windows.
+- LightGBM with Monte-Carlo simulation, walk-forward validation and a leakage-free backtest
+- Synthetic data calibrated on real OCP data
+- FastAPI + Docker, MLflow experiment tracking, drift monitoring, CI with GitHub Actions
+
+### ⚙️ Freelance Developer · AI Automation with n8n
+*Alongside studies*
+- E-mail assistant controlled via **Telegram** (information extraction, LLM-generated replies)
+- Personalized **WhatsApp outreach** powered by the Gemini API, built end to end
 
 ---
 
-## 🔥 Stuff I've built
+## 🚀 Personal projects
 
-| Project | What it does | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| 🏦 **Bank Review Analytics** | Scrapes thousands of customer reviews on Moroccan banks, cleans the Arabic text, classifies sentiment, and feeds a live dashboard | Python, Airflow, DBT, PostgreSQL, Looker Studio |
-| 🤖 **CV Query Assistant** | Ask questions to a pile of CVs and get real answers (RAG with semantic search) | FastAPI, FAISS, Sentence-BERT, Gemini, LangChain |
-| 🎨 **Product Image Generator** | Fine-tuned Stable Diffusion XL with LoRA to generate e-commerce product images | PyTorch, Diffusers, LoRA, Gradio |
-| 🍳 **Recipe Traffic Predictor** | Predicts which recipes will blow up before they're published | Scikit-learn, XGBoost, Seaborn |
-| 💬 **Sentiment Engine** | Compares Naive Bayes, SVM, LSTM and BERT, then ships the winner as an API | Transformers, spaCy, FastAPI |
-| 📈 **Sales Forecasting** | ARIMA vs Prophet vs XGBoost vs LSTM, all fighting for the lowest error | Statsmodels, Prophet, XGBoost |
-
-> 📌 *Pin your 4–6 favorites on your profile and link each repo here.*
+| 🤖 **AI Assistant for CVs & Portfolios** | RAG system: ingestion, chunking, retrieval and generation, served through an API | sentence-transformers, FAISS, FastAPI |
+| 🎨 **E-commerce Personalization** | SDXL fine-tuned with LoRA on **18,000 product images**, with a Gradio UI to control visual attributes | PyTorch, Hugging Face, Gradio |
+| 🏦 **Banking Customer Reviews** | Sentiment analysis, end-to-end pipeline (collection, cleaning, modeling) and a Looker Studio dashboard | NLP, Looker Studio |
+| 🍳 **High-Traffic Recipe Prediction** | Compared several classifiers; logistic regression selected with **>80% precision** | scikit-learn |
 
 ---
 
-## 🎯 What I'm up to right now
+## 🛠️ Tech stack
 
-- 🔭 Digging into **RAG** and **multi-agent LLM systems**
-- 🌱 Learning **MLOps** and **causal inference** (correlation ≠ causation, still repeating it daily)
-- ⛏️ Hunting for an internship in **smart mining & industrial AI**
-- 📝 Planning to write up my projects as blog posts soon
+**Agentic AI & LLMs**
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**RAG & Retrieval**
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_search-vector_+_trigram-555?style=flat-square)
+![Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-555?style=flat-square)
+
+**Backend & MLOps**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**ML & Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A04A?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 🎓 Education & certifications
+
+- 🎓 **Master's in Information Systems & Intelligent Systems**, INSEA, Rabat (2024 – 2026)
+- 🎓 **Bachelor's in Mathematics & Computer Science**, Chouaib Doukkali University, El Jadida (2020 – 2024)
+
+| Certification | Issuer | Date |
+|---|---|---|
+| AI Engineer for Data Scientists (Associate) | DataCamp | Nov 2025 |
+| Data Scientist | DataCamp | Nov 2025 |
+| AI Foundations | Oracle Cloud | 2025 |
+| Data Visualization | Kaggle | 2025 |
+
+**Languages:** 🇲🇦 Arabic (native) · 🇫🇷 French (professional) · 🇬🇧 English (professional)
+
+---
+
+## 💡 Open to
+
+- 🤖 **AI Engineer / Agentic AI Engineer**: LLM agents, multi-agent systems, RAG
+- 🧠 **GenAI Developer**: LLM apps, fine-tuning, on-premise open-source models
+- ⚙️ **Freelance missions**: AI workflow automation (n8n, LLM APIs, REST integrations)
+- 📈 **ML Engineer**: predictive services with FastAPI, Docker, MLflow
 
 ---
 
@@ -78,23 +129,9 @@ class Mohammed:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed78-Dch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed78-Dch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed78-Dch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed78-Dch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-</div>
-
----
-
-## 🤝 Let's talk
-
-Got a dataset, a weird problem, or an internship? I'm in.
-
-📫 [LinkedIn](https://www.linkedin.com/in/mohammed-dechraoui) · 💻 [GitHub](https://github.com/Mohammed78-Dch)
-
-<div align="center">
-
-*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mohammed78-Dch&color=blueviolet&style=flat-square)
+**Let's build something that works in production.** 📫 [LinkedIn](https://www.linkedin.com/in/mohammed-dechraoui) · [Email](mailto:dechraoui.mohammed78@gmail.com)
 
 </div>
